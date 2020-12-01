@@ -1,6 +1,4 @@
-import { NONAME } from 'dns'
-import styled, {createGlobalStyle} from 'styled-components'
-import { getParseTreeNode } from 'typescript'
+import styled from 'styled-components'
 
 
 export const Wrapper = styled.div`
